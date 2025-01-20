@@ -6,7 +6,7 @@ This guide explains how to retrieve and export Boomerang projects using the brow
 ## Steps to Export a Project
 
 1. **Open Developer Console**
-   - Open the Boomerang extension or navigate to the PWA app
+   - Open the Boomerang extension or navigate to the [PWA app](https://app.boomerangapi.com)
    - Press `F12` to open Developer Tools
    - Select the "Console" tab
 
@@ -30,7 +30,7 @@ This guide explains how to retrieve and export Boomerang projects using the brow
 
 To verify that the exported JSON file works correctly:
 
-1. Open the Boomerang PWA app (https://boomerangapi.com) in an incognito window
+1. Open the Boomerang PWA app (https://app.boomerangapi.com) in an incognito window
 2. Import the downloaded JSON file
 3. Verify that your project data appears correctly
 
